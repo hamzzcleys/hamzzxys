@@ -74,8 +74,7 @@ npm start
 ```
 
 ---------
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![hamzzBot](https://github.com/hamzzcleys.png?size=100)] (https://github.com/hamzzcleys) | [![ChandraXD](https://github.com/Chandra-XD.png?size=100)]
-(https://github.com/Chandra-XD)
+[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![hamzzBot](https://github.com/hamzzcleys.png?size=100)] (https://github.com/hamzzcleys)
 ----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ilham Adam .S](https://github.com/hamzzcleys) | [Chandra-XD] (https://github.com/ChandraXD)
 Penulis / Pencipta | Editor | Pengembang
