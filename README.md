@@ -74,7 +74,3 @@ npm start
 ```
 
 ---------
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![hamzzBot](https://github.com/hamzzcleys.png?size=100)] (https://github.com/hamzzcleys)
-----|----
-Penulis / Pencipta | Editor 
-
