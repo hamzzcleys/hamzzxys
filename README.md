@@ -34,7 +34,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/hamzzcleys/hamzzxys.git
-cd HBot
+cd hamzzxys
 npm install
 npm update
 ```
@@ -49,18 +49,14 @@ npm update
 
 ```bash
 git clone https://github.com/hamzzcleys/hamzzxys.git
-cd HBot
+cd hamzzxy 
 npm install
 npm update
 ```
 
 ---------
 # thanks to 
-Allah SWT
-
-nurutomo (author)
-
-all creator bot
+All creator/author 
 
 # recode 
 Hamzz
