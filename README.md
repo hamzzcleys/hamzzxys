@@ -17,7 +17,7 @@
 
 ## DEPLOY HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hamzzcelys/HBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hamzzcelys/hamzzxys)
 
 Heroku Buildpack
 | BuildPack | LINK |
@@ -33,7 +33,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/hamzzcleys/HBot.git
+git clone https://github.com/hamzzcleys/hamzzxys.git
 cd HBot
 npm install
 npm update
@@ -48,7 +48,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/hamzzcleys/HBot.git
+git clone https://github.com/hamzzcleys/hamzzxys.git
 cd HBot
 npm install
 npm update
